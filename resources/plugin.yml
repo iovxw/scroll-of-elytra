@@ -1,0 +1,4 @@
+name: ScrollOfElytra
+main: scroll_of_elytra.core
+depend: [cljminecraft]
+version: 1.0.0
